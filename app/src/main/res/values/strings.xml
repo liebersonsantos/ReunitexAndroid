@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Reunitex</string>
+    <string name="digite_seu_usuario">Digite seu Usuário</string>
+    <string name="digite_sua_senha">Digite sua Senha</string>
+    <string name="login">LOGIN</string>
+    <string name="btn_cadastrar_usuario">Cadastrar</string>
+    <string name="cadastrar">CADASTRAR</string>
+    <string name="digite_usuario_cad">Digite o seu usuário</string>
+    <string name="digite_email_cad">Digite seu e-mail</string>
+    <string name="digite_senha_cad">Digite sua senha</string>
+</resources>
